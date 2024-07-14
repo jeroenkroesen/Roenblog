@@ -1,8 +1,5 @@
-# RoenBlog
-Stuff I feel like sharing
-
-Hi, I'm Jeroen  
-![thatsme](/jeroen_informeel2.jpg)
+# Hi, I'm Jeroen  
+![thatsme](/jeroen_informeel.jpg)
 
 
 * [Brain Hacking](/SecondBrain/Second_Brain_Exploration.md)  
