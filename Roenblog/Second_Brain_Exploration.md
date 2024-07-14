@@ -1,3 +1,9 @@
+---
+tags:
+	second_brain
+
+---
+
 # Second Brain Exploration
 
 Markup tryouts.
