@@ -2,7 +2,7 @@
 Stuff I feel like sharing
 
 Hi, I'm Jeroen  
-![thatsme](/jeroen_informeel.jpg)
+![thatsme](/jeroen_informeel2.jpg)
 
 
 * [Brain Hacking](/SecondBrain/Second_Brain_Exploration.md)  
