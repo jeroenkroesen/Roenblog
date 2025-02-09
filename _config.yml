@@ -1,5 +1,6 @@
 name: RoenBlog
 title: RoenBlog
+description: Stuff I feel like sharing
 theme: jekyll-theme-cayman
 include: 
     - /_resources
