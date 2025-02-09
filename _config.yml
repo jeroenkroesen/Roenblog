@@ -1,4 +1,4 @@
 name: RoenBlog
-theme: jekyll-theme-midnight
+theme: jekyll-theme-cayman
 include: 
     - /_resources
