@@ -1,4 +1,5 @@
 name: RoenBlog
+title: RoenBlog
 theme: jekyll-theme-cayman
 include: 
     - /_resources
