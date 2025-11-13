@@ -1,12 +1,4 @@
-# Hi, I'm Jeroen  
-![thatsme](/jeroen_informeel3.jpg)
+# Personal blog repo
 
-This blog is still in testing mode
-
-
-## [Brain Hacking](/SecondBrain/Second_Brain_Exploration.md)
-Taking a deep dive in note taking, Zettlekasten, brain-data-interfaces  
-
-## [Vakantie Zweden](/VakantieZweden/Vakantie_Zweden_2024.md)  
-
+Content starts at [index.md](index.md). Site is at [https://jeroenkroesen.github.io/RoenBlog/](https://jeroenkroesen.github.io/Roenblog/)
 
