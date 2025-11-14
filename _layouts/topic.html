@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<h2>Articles</h2>
+<ul>
+  {% for article in site.articles %}
+    {% if article.tags contains page.topic_tag %}
+	<li><a href="{{ article.url }}">{{ article.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<h2>Posts</h2>
+<ul>
+  {% for post in site.tags[page.topic_tag] %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}</li>
+  {% endfor %}
+</ul>

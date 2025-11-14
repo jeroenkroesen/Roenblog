@@ -4,3 +4,8 @@ description: Stuff I feel like sharing
 theme: jekyll-theme-cayman
 include: 
     - /_resources
+collections:
+  topics:
+    output: true
+  articles:
+    output: true
