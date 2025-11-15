@@ -1,0 +1,14 @@
+site_name: RoenBlog
+site_url: https://jeroenkroesen.github.io/Roenblog/
+theme:
+  name: material
+  palette:
+    scheme: slate
+  logo: _resources/roenicon.png
+extra:
+  generator: false
+copyright: Copyright &copy; 2025 Jeroen Kroesen
+nav:
+  - Home: index.md
+  - External Mind:
+      - Introduction to External Mind: external_mind/index.md

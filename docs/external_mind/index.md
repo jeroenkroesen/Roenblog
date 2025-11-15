@@ -11,6 +11,7 @@ An external mind is a way of keeping notes that amplifies your natural brain. Ou
   
 ### Linked notes - mimicking your brain cells
 An external mind has a structure that greatly enhances its power compared to simple note taking. Notes in an external mind are *contextually linked*. This means that with an external mind you can *visually surf your own thoughts*. So the core concept of an external mind is incredibly simple: link notes to eachother. It's really easy to get started with this. Many apps for notetaking support entering links to other notes. Examples are:
+
 * [Joplin](https://joplinapp.org)
 * [LogSeq](https://www.logseq.com)
 * [Obsidian](https://obsidian.md)  
@@ -22,6 +23,7 @@ What the apps above have in common is that they allow you to write your notes in
   
 ### Structure beyond links
 It's a good experience to get started writing notes that link to each other using one of the apps above. You will quickly find out what kind of notes you naturally write and discover what structure fits your thoughts. The apps I've mentioned all support additional structure beyond links: They can store notes in separate notebooks and add tags to notes. And there is powerful search functionality to find the notes you're looking for. As you start to write notes, you will inevitably face questions about structure:  
+
 * When do you use a separate notebook for notes?
 * What tags do you use for your notes?  
   
