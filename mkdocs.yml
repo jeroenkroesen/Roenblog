@@ -1,14 +1,26 @@
-site_name: RoenBlog
+site_name: RoenSpace
 site_url: https://jeroenkroesen.github.io/Roenblog/
 theme:
   name: material
   palette:
     scheme: slate
   logo: _resources/roenicon.png
+  features:
+    - navigation.path
+    - content.code.copy
+plugins:
+  - search
+  - blog
+  - meta
+  - tags:
+      listings_toc: false
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 extra:
   generator: false
 copyright: Copyright &copy; 2025 Jeroen Kroesen
-nav:
-  - Home: index.md
-  - External Mind:
-      - Introduction to External Mind: external_mind/index.md

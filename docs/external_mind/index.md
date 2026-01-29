@@ -1,6 +1,9 @@
 ---
 title: External Mind
 description: Surf your thoughts
+tags:
+    - Page
+    - External Mind
 ---
 
 Since 2022 I've been building an external mind and I'm really excited about it. But what is an external mind and why is it fun, useful and empowering?  
