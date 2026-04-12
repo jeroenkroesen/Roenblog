@@ -6,10 +6,10 @@ Content starts at [docs/index.md](docs/index.md). Site is at [https://jeroenkroe
   
 For local development run Material for MkDocs in Podman.
 ```sh
-podman run --rm -it -p 8000:8000 -v ${PWD}:/docs docker.io/squidfunk/mkdocs-material
+podman run --rm -it -p 8000:8000 -v "${PWD}:/docs:Z" docker.io/squidfunk/mkdocs-material serve --dev-addr 0.0.0.0:8000 --livereload
 ```
 
-Then visit [http://127.0.0.1:8000](http://127.0.0.1:8000) to preview the site locally. At the moment, hot reloading does not seem to work. So to view changes you will need to stop (`ctrl-c`) and restart the local dev server.  
+Then visit [http://127.0.0.1:8000](http://127.0.0.1:8000) to preview the site locally.  
   
 If you want to start your own site in Material for MkDocs, bootstrap an empty site by running this command in an empty project directory or git repo:
 ```sh
