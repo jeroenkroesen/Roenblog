@@ -4,7 +4,7 @@ theme:
   name: material
   palette:
     scheme: slate
-  logo: _resources/roenicon.png
+  logo: _resources/roenicon_new.png
   features:
     - navigation.path
     - content.code.copy
