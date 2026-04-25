@@ -17,7 +17,7 @@ I'm Jeroen and this where I share my thoughts.
 - **[:material-fountain-pen-tip:{.lg .middle} Blog](blog/index.md)**
 - **[:material-hub-outline:{.lg .middle} External Mind](external_mind/index.md)**
 - **[:material-shield-account:{.lg .middle} Digital Sovereignty and Freedom](digital_sovereignty/index.md)**
-- **[:material-github:{.lg .middle} Github](https://github.com/jeroenkroesen)**
+- **[:material-yin-yang:{.lg .middle} Quality](quality/index.md)**
 
 </div>
   
